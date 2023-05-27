@@ -1,0 +1,44 @@
+{
+  "name": "solarized-palenight",
+  "displayName": "Solarized Palenight",
+  "description": "A solarized theme that has the fun syntax highlighting of palenight",
+  "version": "1.0.0",
+  "icon": "./static/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandonKirbyson/Solarized-Palenight"
+  },
+  "author": {
+    "name": "Brandon Kirbyson",
+    "email": "brandonkirbyson@gmail.com"
+  },
+  "publisher": "BrandonKirbyson",
+  "readme": "README.md",
+  "homepage": "https://github.com/BrandonKirbyson/Solarized-Palenight#readme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "solarized",
+    "palenight",
+    "syntax",
+    "material",
+    "material theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized-Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solarized-Palenight-color-theme.json"
+      }
+    ]
+  }
+}
