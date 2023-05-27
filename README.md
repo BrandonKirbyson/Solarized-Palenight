@@ -4,4 +4,6 @@ Solarized Palenight is a dark theme for Visual Studio Code. It's based on the [S
 
 The reason I created this theme is because I wanted to use the Solarized Dark theme, but I didn't like the fading/subtle syntax highlighting but I loved the fun syntax highlighting of palenight. So, I decided to combine the two themes and create a new one.
 
+> _Note:_ If you want to check out a really clean extension, try [VSCode-Animations](https://marketplace.visualstudio.com/items?itemName=BrandonKirbyson.vscode-animations)
+
 ![Screenshot](./static/screenshot.png)
