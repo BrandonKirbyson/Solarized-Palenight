@@ -2,7 +2,7 @@
   "name": "solarized-palenight",
   "displayName": "Solarized Palenight",
   "description": "A solarized theme that has the fun syntax highlighting of palenight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "./static/icon.png",
   "repository": {
     "type": "git",
